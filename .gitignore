@@ -1,0 +1,15 @@
+.DS_Store
+.tmp
+ehthumbs.db
+Thumbs.db
+.Trashes
+
+.idea
+.sublime-project
+.sublime-workspace
+.sass-cache
+
+.vagrant
+dist
+node_modules
+npm-debug.log

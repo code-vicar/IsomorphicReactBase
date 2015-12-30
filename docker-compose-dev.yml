@@ -1,0 +1,7 @@
+web:
+    build: .
+    ports:
+        - "7777:7777"
+    environment:
+        COMPOSE_PROJECT_NAME: isomorphic_react_dev
+        NODE_ENV: development
